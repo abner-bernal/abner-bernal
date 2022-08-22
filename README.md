@@ -2,17 +2,8 @@
 
 ### Welcome to my Github profile 👋
 
-I'm a Front-End developer and..
+I'm a Front-End developer
 
-<br />
-
-### My Game:
-
-<a href="https://www.criptomemoria.com/" target="_blank">
-  <img align="left" height='32px' alt="CRIPTOMEMORIA" src=".github/workflows/game.svg" target="_blank">
-</a>
-
-<br />
 <br />
 
 ### Softwares:
@@ -21,6 +12,15 @@ I'm a Front-End developer and..
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
   <img align="left" alt="XD" width="34px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/>
 </a> 
+
+<br />
+<br />
+
+### My Game:
+
+<a href="https://www.criptomemoria.com/" target="_blank">
+  <img align="left" height='32px' alt="CRIPTOMEMORIA" src=".github/workflows/game.svg" target="_blank">
+</a>
 
 <br />
 <br />
