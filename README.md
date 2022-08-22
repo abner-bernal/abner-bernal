@@ -2,6 +2,8 @@
 
 ### Welcome to my Github profile 👋
 
+I'm a Front-End developer and..
+
 <br />
 
 ### My Game:
@@ -13,8 +15,17 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Softwares:
 
+<img align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+  <img align="left" alt="XD" width="34px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/>
+</a> 
+
+<br />
+<br />
+
+### Languages and Tools:
 
 <a href="https://git-scm.com/" target="_blank"> 
   <img align="left" alt="git" width="34px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
@@ -40,19 +51,7 @@
 </a>
 <a href="https://nextjs.org/" target="_blank"> 
   <img align="left" alt="Next.js" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-</a>           
-          
-
-
-<br />
-<br />
-
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-  <img align="left" alt="XD" width="34px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/>
-</a> 
+</a>  
 
 <br />
 <br />
