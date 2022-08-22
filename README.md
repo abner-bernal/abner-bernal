@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile 👋
 
-Sou desenvolvedor Front-End e Bacharel em Ciência da Computação pela Universidade Federal de Mato Grosso do Sul (UFMS).
+I'm a Front-End developer and Bachelor in Computer Science.
 
 <br />
 
