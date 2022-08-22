@@ -2,6 +2,39 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 <br />
+
+### Languages and Tools:
+
+
+<a href="https://git-scm.com/" target="_blank"> 
+  <img align="left" alt="git" width="36px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+</a>
+<img align="left" alt="GitHub" width="36px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://www.cprogramming.com/" target="_blank"> 
+  <img align="left" alt="C" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/> 
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+  <img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ </a>
+<a href="https://www.w3schools.com/js/" target="_blank"> 
+  <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+  <img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/> 
+</a>
+<a href="https://pt-br.reactjs.org/" target="_blank"> 
+  <img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/> 
+</a>
+<a href="https://pt-br.reactjs.org/" target="_blank"> 
+  <img align="left" alt="Next.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</a>           
+          
+
+
+<br />
 <br />
 
 ### Softwares:
