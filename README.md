@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/abner-bernal">
   <img height="190em" width="480em" src="http://github-readme-streak-stats.herokuapp.com?user=abner-bernal&hide_border=true&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&fire=E4405F&background=1F252D&stroke=808080&ring=FF8BA1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
-  <img height="190em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-bernal&layout=compact&langs_count=7&hide_border=true&bg_color=1F252DFF&title_color=fff&text_color=fff&locale=pt-br"/>
+
 </div>
   
 ### Contatos:
@@ -25,7 +25,8 @@
 <br />
 <br />
 
-  
+  <img height="190em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-bernal&layout=compact&langs_count=7&hide_border=true&bg_color=1F252DFF&title_color=fff&text_color=fff&locale=pt-br"/>
+
 ![Snake animation](https://github.com/abner-bernal/abner-bernal/blob/output/github-contribution-grid-snake.svg)
 
 <!--
