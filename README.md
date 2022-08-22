@@ -19,7 +19,7 @@ Sou desenvolvedor Front-End e Bacharel em Ciência da Computação pela Universi
 ### My Game:
 
 <a href="https://www.criptomemoria.com/" target="_blank">
-  <img align="left" height='32px' alt="CRIPTOMEMORIA" src=".github/workflows/game.svg" target="_blank">
+  <img align="left" height='28px' alt="CRIPTOMEMORIA" src=".github/workflows/game.svg" target="_blank">
 </a>
 
 <br />
@@ -60,8 +60,8 @@ Sou desenvolvedor Front-End e Bacharel em Ciência da Computação pela Universi
 
 <div>
   <a href="https://github.com/abner-bernal">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=abner-bernal&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=E4405F&background=1F252D&stroke=808080&ring=FF8BA1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-bernal&layout=compact&langs_count=7&hide_border=true&bg_color=1F252DFF&title_color=fff&text_color=fff"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-bernal&layout=compact&langs_count=7&hide_border=true&bg_color=1F252DFF&title_color=fff&text_color=fff"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=abner-bernal&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=E4405F&background=1F252D&stroke=808080&ring=FF8BA1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
 </div>
   
 
