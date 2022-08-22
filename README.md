@@ -72,10 +72,9 @@
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22hznljm52gal2lisyspw4cmy)
+  
 <br/>
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
 ---
 
 ![Snake animation](https://github.com/abner-bernal/abner-bernal/blob/output/github-contribution-grid-snake.svg)
