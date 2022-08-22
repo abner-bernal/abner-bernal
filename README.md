@@ -1,12 +1,13 @@
 ## Hello World!!
 ### Bem vindo ao meu perfil GitHub 👋
 
+
 ### Estatísticas:
 
 <div>
   <a href="https://github.com/abner-bernal">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=abner-bernal&hide_border=true&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&fire=E4405F&background=1F252D&stroke=808080&ring=FF8BA1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-bernal&layout=compact&langs_count=7&hide_border=true&bg_color=1F252DFF&title_color=fff&text_color=fff&locale=pt-br"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=abner-bernal&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=E4405F&background=1F252D&stroke=808080&ring=FF8BA1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner-bernal&layout=compact&langs_count=7&hide_border=true&bg_color=1F252DFF&title_color=fff&text_color=fff"/>
 </div>
   
 ### Contatos:
@@ -24,6 +25,12 @@
 
 <br />
 <br />
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22hznljm52gal2lisyspw4cmy)
+<br/>
+---
 
 ![Snake animation](https://github.com/abner-bernal/abner-bernal/blob/output/github-contribution-grid-snake.svg)
 
