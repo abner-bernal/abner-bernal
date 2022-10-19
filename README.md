@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile 👋
 
-I'm a Front-End developer and Bachelor in Computer Science.
+I'm a Front-End developer with a bachelor's degree in Computer Science, I have a creative, detail-oriented, and analytical vision.
 
 <br />
 
